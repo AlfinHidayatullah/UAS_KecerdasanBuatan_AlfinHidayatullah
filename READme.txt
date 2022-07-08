@@ -1,0 +1,5 @@
+Nama 	: Alfin Hidayatullah
+Nim	: 191011400711
+Kelas	: 06TPLM005
+
+UAS_KECERDASANBUATAN_
