@@ -1,0 +1,2 @@
+# UAS_KecerdasanBuatan_AlfinHidayatullah
+UAS
